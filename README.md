@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am currently working on a e commerce site front end for now. <br>Not really looking to collaborate yet<br>i do not need help <br>i am currently learning react and springboot<br>ask me about intresting technologies
+Aspiring Professional Software Engineer
 
 
 # 💻 Tech Stack:
